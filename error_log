@@ -1,0 +1,2 @@
+[15-Aug-2023 09:32:46 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sukaweb1/public_html/projek/ppdb/config.php on line 2
+[15-Aug-2023 10:15:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sukaweb1_ppdb'@'eqx-singapore.kencang.id' (using password: YES) in /home/sukaweb1/public_html/projek/ppdb/config.php on line 7
